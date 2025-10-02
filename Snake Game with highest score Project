@@ -1,4 +1,4 @@
-# Project-24 = Snake Game with highest score Project
+# Snake Game with highest score Project
 from turtle import Screen
 from snake24 import Snake
 from food24 import Food
